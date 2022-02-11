@@ -6,5 +6,5 @@
 
 Use
 ``` 
-php index.php GenerateSerialNumberServiceReport.php out
+php index.php yout_file.php out
 ```
